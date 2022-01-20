@@ -89,6 +89,10 @@
     margin-bottom: 4px;
 }
 
+.titulo{
+    background: url('../../img/dec/top-right.svg') no-repeat right 20px top;
+}
+
 @media (max-width: 800px){
     .titulo-bg{
         padding-top: 40px;

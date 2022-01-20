@@ -7,8 +7,12 @@
 /* Cores */
 @import "./components/cores.css";
 
+/* Formulário */
+@import "./components/formulario.css";
+
 /* Componentes */
 @import "./components/componentes.css";
+
 
 /* Home */
 @import "./global/header.css";
@@ -33,3 +37,10 @@
 
 /* Termos */
 @import "./termos/termos.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
+/* Orçamento */
+@import "./orcamento/orcamento.css";

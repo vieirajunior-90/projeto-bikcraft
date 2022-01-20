@@ -24,6 +24,11 @@ dd{
     margin: 0;
 }
 
+button{
+    border: 0;
+    cursor: pointer;
+}
+
 img{
     max-width: 100%;
     display: block;

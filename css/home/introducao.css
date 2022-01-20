@@ -1,6 +1,6 @@
 /* Intro */
 .introducao-bg{
-    background: var(--cor-c12);
+    background: var(--cor-c12) url('../../img/dec/bottom-left.svg') no-repeat bottom 160px left 20px;
     color: var(--cor-c0);
     box-shadow: inset 0px -120px  var(--cor-c0);
 }
