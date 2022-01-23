@@ -13,6 +13,8 @@
 /* Componentes */
 @import "./components/componentes.css";
 
+/* Animação */
+@import "./components/animacao.css";
 
 /* Home */
 @import "./global/header.css";
